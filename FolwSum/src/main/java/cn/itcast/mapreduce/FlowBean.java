@@ -12,7 +12,6 @@ public class FlowBean implements WritableComparable<FlowBean>{
 	private long upFlow;
 	private long downFlow;
 	private long sumFlow;
-	//第一册
 	//序列化框架在反序列化的时候创建对象的实例会去调用我们的无参构造函数
 	public FlowBean() {
 		
