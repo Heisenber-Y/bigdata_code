@@ -1,0 +1,3 @@
+cn\itcast\mapreduce\WordCountReducer.class
+cn\itcast\mapreduce\WordCountMapper.class
+cn\itcast\mapreduce\WordCountDriver.class
