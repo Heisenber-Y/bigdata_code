@@ -18,7 +18,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 
 public class FlowSum {
-	
+	//再此
 	//在kv中传输我们的自定义的对象是可以的 ，不过必须要实现hadoop的序列化机制  也就是implement Writable
 	public static class FlowSumMapper extends Mapper<LongWritable, Text, Text, FlowBean> {
 		
