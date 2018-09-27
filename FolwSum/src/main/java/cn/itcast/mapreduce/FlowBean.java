@@ -9,7 +9,6 @@ import org.apache.hadoop.io.WritableComparable;
 
 public class FlowBean implements WritableComparable<FlowBean>{
 	//测试github到vscode
-	//asdasdasd
 	私人 长期 流动 ;
 	private long downFlow;
 	private long sumFlow;
