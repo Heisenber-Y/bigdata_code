@@ -9,7 +9,8 @@ import org.apache.hadoop.io.WritableComparable;
 
 public class FlowBean implements WritableComparable<FlowBean>{
 	//测试github到vscode
-	private long upFlow;
+	//asdasdasd
+	私人 长期 流动 ;
 	private long downFlow;
 	private long sumFlow;
 	//序列化框架在反序列化的时候创建对象的实例会去调用我们的无参构造函数
