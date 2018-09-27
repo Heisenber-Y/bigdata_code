@@ -1,0 +1,12 @@
+cn\itcast\mapreduce\FlowSumSort$FlowSumSortMapper.class
+cn\itcast\mapreduce\FlowSum$FlowSumReducer.class
+com\bxg\test\RateMainDriver.class
+com\bxg\test\RateBean.class
+com\bxg\test\RateDriver.class
+cn\itcast\mapreduce\FlowBean.class
+cn\itcast\mapreduce\FlowSum$FlowSumMapper.class
+com\bxg\test\RateDriver$RateReducer.class
+cn\itcast\mapreduce\FlowSum.class
+cn\itcast\mapreduce\FlowSumSort.class
+com\bxg\test\RateDriver$RateMapper.class
+cn\itcast\mapreduce\FlowSumSort$FlowSumSortReducer.class
