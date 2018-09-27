@@ -27,7 +27,7 @@ public class WordCountDriver {
 	
 	public static void main(String[] args) throws Exception {
 	Configuration conf=	new Configuration();
-		//Configuration conf = new Configuration();
+		Configuration conf = new Configuration();
 		conf.set("fs.defaultFS", "hdfs://mini1:9000");
 //		conf.set("mapreduce.framework.name", "yarn");
 //		conf.set("yarn.resourcemanager.hostname", "mini1");
