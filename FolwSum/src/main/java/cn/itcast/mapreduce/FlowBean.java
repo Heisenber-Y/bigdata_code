@@ -9,7 +9,7 @@ import org.apache.hadoop.io.WritableComparable;
 
 public class FlowBean implements WritableComparable<FlowBean>{
 //asdasdasdasda
-	//还有谁
+	//还
 	private long upFlow ;
 	private long downFlow;
 	private long sumFlow;
