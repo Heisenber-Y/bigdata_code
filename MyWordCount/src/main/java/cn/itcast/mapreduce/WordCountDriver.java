@@ -24,9 +24,10 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
  * 		以及其他各种所需要的参数
  */
 public class WordCountDriver {
-	//哈哈
+	//还有谁
+	//还有谁
 	public static void main(String[] args) throws Exception {
-	Configuration conf=	new Configuration();
+	//Configuration conf=	new Configuration();
 		Configuration conf = new Configuration();
 		conf.set("fs.defaultFS", "hdfs://mini1:9000");
 //		conf.set("mapreduce.framework.name", "yarn");
