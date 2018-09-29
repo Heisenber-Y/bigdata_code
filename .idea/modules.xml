@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FolwSum/FolwSum.iml" filepath="$PROJECT_DIR$/FolwSum/FolwSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWordCount/MyWordCount.iml" filepath="$PROJECT_DIR$/MyWordCount/MyWordCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bm_shell.iml" filepath="$PROJECT_DIR$/.idea/bm_shell.iml" />
     </modules>
   </component>

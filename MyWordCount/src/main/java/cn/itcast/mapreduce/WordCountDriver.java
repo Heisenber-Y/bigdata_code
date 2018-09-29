@@ -26,6 +26,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 public class WordCountDriver {
 	//还有谁
 	//还有谁
+	//还与水
 	public static void main(String[] args) throws Exception {
 	//Configuration conf=	new Configuration();
 		Configuration conf = new Configuration();
