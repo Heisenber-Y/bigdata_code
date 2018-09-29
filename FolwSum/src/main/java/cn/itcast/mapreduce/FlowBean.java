@@ -4,11 +4,12 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-import org.apache.hadoop.io.Writable;
+
 import org.apache.hadoop.io.WritableComparable;
 
 public class FlowBean implements WritableComparable<FlowBean>{
-//hahaß
+//asdasdasdasda
+	//还有谁
 	private long upFlow ;
 	private long downFlow;
 	private long sumFlow;
