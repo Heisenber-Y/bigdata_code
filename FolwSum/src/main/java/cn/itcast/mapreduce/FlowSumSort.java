@@ -14,11 +14,11 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
-//a3
+
 /**
  * 实现流量汇总并按照流量大小的倒序排序  前提：处理的数据是已经汇总的结果文件
  * @author AllenWoon
- *
+ *asdasdasdasdasdasdads
  */
 public class FlowSumSort {
 	
