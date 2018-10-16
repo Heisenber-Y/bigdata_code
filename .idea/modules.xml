@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FolwSum/FolwSum.iml" filepath="$PROJECT_DIR$/FolwSum/FolwSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWordCount/MyWordCount.iml" filepath="$PROJECT_DIR$/MyWordCount/MyWordCount.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/bm_shell.iml" filepath="$PROJECT_DIR$/.idea/bm_shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCount/WordCount.iml" filepath="$PROJECT_DIR$/WordCount/WordCount.iml" />
     </modules>
   </component>
 </project>
